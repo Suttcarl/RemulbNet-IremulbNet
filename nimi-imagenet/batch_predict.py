@@ -11,7 +11,7 @@ from thop import profile
 from thop import clever_format
 
 
-from iresnet2 import resnet50  
+from resnet import resnet50  
 from dmodel import densenet121  
 from model_v2 import MobileNetV2 
 from model_v3 import mobilenet_v3_large  
